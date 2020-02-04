@@ -1,0 +1,17 @@
+.home-section a{
+    color: #30336b;
+}
+
+.home-section a:hover {
+    text-decoration: none;
+    color: #22a6b3;
+
+}
+
+#sidebar p{
+    background: #162436;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0px;
+    border-radius: none;
+}
